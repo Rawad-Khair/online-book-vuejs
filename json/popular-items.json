@@ -1,0 +1,58 @@
+[
+    {
+        "id": 0,
+        "image": "images/books/1.jpg",
+        "title": "Title",
+        "author": "author",
+        "info": "It is a long established fact that a reader will be distracted by thereadable content of a page whenlooking at its layout. Pellentesque dolor turpis, pulvinar varius."
+    },
+    {
+        "id": 1,
+        "image": "images/books/2.jpg",
+        "title": "Title2",
+        "author": "author2",
+        "info": "It is a long established fact that a reader will be distracted by thereadable content of a page whenlooking at its layout. Pellentesque dolor turpis, pulvinar varius."
+    },
+    {
+        "id": 2,
+        "image": "images/books/3.jpg",
+        "title": "Title3",
+        "author": "author3",
+        "info": "It is a long established fact that a reader will be distracted by thereadable content of a page whenlooking at its layout. Pellentesque dolor turpis, pulvinar varius."
+    },
+    {
+        "id": 3,
+        "image": "images/books/4.jpg",
+        "title": "Title4",
+        "author": "author4",
+        "info": "It is a long established fact that a reader will be distracted by thereadable content of a page whenlooking at its layout. Pellentesque dolor turpis, pulvinar varius."
+    },
+    {
+        "id": 4,
+        "image": "images/books/5.jpg",
+        "title": "Title5",
+        "author": "author5",
+        "info": "It is a long established fact that a reader will be distracted by thereadable content of a page whenlooking at its layout. Pellentesque dolor turpis, pulvinar varius."
+    },
+    {
+        "id": 5,
+        "image": "images/books/6.jpg",
+        "title": "Title6",
+        "author": "author6",
+        "info": "It is a long established fact that a reader will be distracted by thereadable content of a page whenlooking at its layout. Pellentesque dolor turpis, pulvinar varius."
+    },
+    {
+        "id": 6,
+        "image": "images/books/7.jpg",
+        "title": "Title7",
+        "author": "author7",
+        "info": "It is a long established fact that a reader will be distracted by thereadable content of a page whenlooking at its layout. Pellentesque dolor turpis, pulvinar varius."
+    },
+    {
+        "id": 7,
+        "image": "images/books/8.jpg",
+        "title": "Title8",
+        "author": "author8",
+        "info": "It is a long established fact that a reader will be distracted by thereadable content of a page whenlooking at its layout. Pellentesque dolor turpis, pulvinar varius."
+    }
+]
